@@ -42,6 +42,13 @@ In conclusion, HistoryApp is a mobile application designed to educate and engage
 
 This comprehensive report provides an overview of the purpose, development process, and functionality of HistoryApp, highlighting its educational value and user-centric design.
 
+![ass_1](https://github.com/ST10443445-Sboniso-Magoqwana/Assingment_1_ST10443445/assets/164514677/fd28fb08-ea3d-4ab4-8717-ee4d7d277121)
+
+Link to the youtube video:
+https://youtu.be/e1Jv4ZmVDmg
+
+
+
 
 
 
